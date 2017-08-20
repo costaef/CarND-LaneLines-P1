@@ -9,7 +9,7 @@ The goals / steps of this project are the following:
 
 [image1]: ./test_images_output/gray.jpg "Grayscale"
 [image2]: ./test_images_output/blur.jpg "Gaussian Smoothing"
-[image3]: ./test_images_output/canny.jpg "Canny Edges"
+[image3]: ./test_images_output/canny_edges.jpg "Canny Edges"
 [image4]: ./test_images_output/region.jpg "Region of Interest"
 [image5]: ./test_images_output/hough.jpg "Hough Transform"
 [image6]: ./test_images_output/result.jpg "Result"
@@ -17,7 +17,7 @@ The goals / steps of this project are the following:
 
 ---
 
-### Reflection
+## Reflection
 
 ### 1. Pipeline Description
 
